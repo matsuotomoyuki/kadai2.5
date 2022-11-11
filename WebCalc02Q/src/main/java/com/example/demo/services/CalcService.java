@@ -20,6 +20,7 @@ public class CalcService {
 		String AdResult = AdR.toString();
 		return AdResult;
 
+		
 	}
 
 	//		割り算に関しては特殊なので注意
